@@ -1,0 +1,330 @@
+.nav-logo {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #323f4b;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+}
+
+.bg-container {
+    background-color: #191A1D;
+    height: 80vh;
+}
+
+.heading{
+    color:orange;
+    font-weight:bold;
+}
+.btn1{
+    color:orange;
+    background-color: blue;
+
+}
+
+.image{
+    height:60px;
+    width:200px;
+}
+.gb1{
+    color:black;
+    font-weight:bold;
+    font-size:20px;
+}
+
+.spn{
+    color:#323f4b;
+    font-size:19px;
+    font-weight:0px;
+}
+
+.img9 {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    margin-bottom:40px;
+}
+
+h1 {
+    color: white;
+    font-size: "roboto";
+    font-size: 40px;
+}
+
+span {
+    color: #4b6cc1;
+}
+
+p {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: "roboto";
+}
+
+.btn {
+    background-color: #4b6cc1;
+    color: white;
+}
+
+.top-bg-container {
+    background-color: #323f4b;
+}
+
+h2 {
+    color: #cced00;
+}
+
+
+
+.h5 {
+    color: #ffffff;
+}
+
+p {
+    color: #9aa5b1;
+}
+
+.bottom-bg-container {
+    background-color: #1f2933;
+}
+
+.img10{
+    height: 600px;
+    width: 500px;
+    padding: 30px;
+    border-radius:5px;
+}
+
+.card-container {
+    background-color: #323f4b;
+    border-radius: 12px;
+    height: 100px;
+    width: 120px;
+}
+
+.img2 {
+    height: 80px;
+    width: 80px;
+}
+
+h3 {
+    color: white;
+    font-size: 18px;
+}
+
+.img3 {
+    height: 200px;
+    width: 500px;
+    margin: 20px;
+    padding-bottom: 10px;
+}
+
+.card-container1 {
+    height: 150px;
+    width: 1750px;
+    background-color: #323f4b;
+    border-radius: 12px;
+}
+
+hr {
+    width: 500px;
+    border-color: white;
+}
+
+.portfolio-container {
+    background-color: #3e4c59;
+}
+
+.section1 {
+    background-color: #323f4b;
+    margin: 20px;
+}
+
+h1 {
+    color: #cced00;
+}
+
+h2 {
+    color: white;
+}
+
+.img1 {
+    height: 300px;
+    width: 500px;
+    
+   
+}
+
+.para {
+    color: white;
+    font-size: 30px;
+}
+
+.para1 {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.btn11 {
+    color: #cced00;
+    background-color:transparent;
+}
+
+.bg-container4 {
+    background-color: #52606d;
+}
+
+.hr1 {
+    color: #cced00;
+    font-size: 25px;
+    padding-top: 30px;
+    font-family: "roboto";
+}
+
+.hr2 {
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    font-weight: bold;
+}
+
+.section10 {
+    background-color: #323f4b;
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.img8 {
+    height: 60px;
+    width: 60px;
+}
+
+.hr3 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.bg-container5 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    height: 50vh;
+}
+
+.hb1 {
+    color: white;
+    font-weight: bold
+}
+
+.hb2 {
+    color: white;
+    font-size: 10px;
+    font-family: "roboto";
+}
+
+.horizontal {
+    background-color: white;
+    width: 40px;
+}
+
+.clock {
+    height: 60px;
+    color: white;
+    width: 50px;
+}
+
+.file-text {
+    height: 60px;
+    color: white;
+    width: 50px;
+}
+
+.thumbs-up {
+    height: 60px;
+    color: white;
+    width: 50px;
+}
+
+.bg-container7 {
+    background-color: #1f2933;
+    height: 100vh;
+    background-size: cover;
+}
+.hd1 {
+    color: #cced00;
+    font-family: "roboto";
+    font-size: 30px;
+}
+
+.hd2 {
+    color: white;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.bg-container12 {
+    background-color: #323f4b;
+    width: 50%;
+    background-size: cover;
+    text-align: center;
+    height:400px;
+}
+
+.img {
+    border-radius: 100px;
+    height: 180px;
+    width: 180px;
+}
+
+.hd3{
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 30px;
+}
+
+.para10 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bg-container13 {
+    background-color: #001c32;
+    height: 30vh;
+    background-size: cover;
+}
+
+.gr1 {
+    color: #cced00;
+    font-family: "roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.gr2 {
+    color: #9aa5b1;
+}
+
+.img67 {
+    border-radius: 100px;
+    height: 80px;
+    width: 80px;
+}
+
+.span {
+    color: #9aa5b1;
+}
+
+.icon {
+    height: 50px;
+    color: #9aa5b1;
+}
